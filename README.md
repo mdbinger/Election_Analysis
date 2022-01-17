@@ -35,7 +35,6 @@ The analysis of the election show that:
     - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes
 
 ## Challenge Summary
-In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
 
 The results of this election were analyzed by using a script of code in Python and run through Visual Studio Code. The code takes in the raw data we recieved from the Colorado Board of Elections via a CSV file. The CSV file contained data on every vote cast, inlcuding the ballot ID, the county from which the vote was cast, and the candidate the vote was casted for. We then created a blank text file to have the code write the results of the analysis to so that we can save the results of the analysis and access them without having to run the code every time we need them.
 
